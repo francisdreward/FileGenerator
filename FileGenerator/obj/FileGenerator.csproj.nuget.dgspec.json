@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/francisdonald/Downloads/FileGenerator/FileGenerator/FileGenerator.csproj": {}
+  },
+  "projects": {
+    "/Users/francisdonald/Downloads/FileGenerator/FileGenerator/FileGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/francisdonald/Downloads/FileGenerator/FileGenerator/FileGenerator.csproj",
+        "projectName": "FileGenerator",
+        "projectPath": "/Users/francisdonald/Downloads/FileGenerator/FileGenerator/FileGenerator.csproj",
+        "packagesPath": "/Users/francisdonald/.nuget/packages/",
+        "outputPath": "/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/francisdonald/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            },
+            "Faker.Net": {
+              "target": "Package",
+              "version": "[2.0.154, )"
+            },
+            "PgpCore": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

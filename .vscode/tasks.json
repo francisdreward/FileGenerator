@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build: FileGenerator.csproj",
+            "type": "shell",
+            "command": "dotnet build ${workspaceFolder}/FileGenerator/FileGenerator.csproj",
+            "group": "build",
+            "problemMatcher": [
+                "$msCompile"
+            ],
+            "detail": "Build the FileGenerator.csproj project using dotnet build"
+        }
+    ]
+}

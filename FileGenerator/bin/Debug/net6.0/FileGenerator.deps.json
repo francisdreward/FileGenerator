@@ -1,0 +1,119 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FileGenerator/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "30.0.1",
+          "Faker.Net": "2.0.154",
+          "PgpCore": "6.5.1"
+        },
+        "runtime": {
+          "FileGenerator.dll": {}
+        }
+      },
+      "BouncyCastle.Cryptography/2.4.0": {
+        "runtime": {
+          "lib/net6.0/BouncyCastle.Cryptography.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.4.0.33771"
+          }
+        }
+      },
+      "CsvHelper/30.0.1": {
+        "runtime": {
+          "lib/net6.0/CsvHelper.dll": {
+            "assemblyVersion": "30.0.0.0",
+            "fileVersion": "30.0.1.0"
+          }
+        }
+      },
+      "Faker.Net/2.0.154": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/net60/Faker.Net.6.0.dll": {
+            "assemblyVersion": "2.0.154.0",
+            "fileVersion": "2.0.154.0"
+          }
+        },
+        "resources": {
+          "lib/net60/de-DE/Faker.Net.6.0.resources.dll": {
+            "locale": "de-DE"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "PgpCore/6.5.1": {
+        "dependencies": {
+          "BouncyCastle.Cryptography": "2.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PgpCore.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.5.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BouncyCastle.Cryptography/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SwXsAV3sMvAU/Nn31pbjhWurYSjJ+/giI/0n6tCrYoupEK34iIHCuk3STAd9fx8yudM85KkLSVdn951vTng/vQ==",
+      "path": "bouncycastle.cryptography/2.4.0",
+      "hashPath": "bouncycastle.cryptography.2.4.0.nupkg.sha512"
+    },
+    "CsvHelper/30.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rcZtgbWR+As4G3Vpgx0AMNmShGuQLFjkHAPIIflzrfkJCx8/AOd4m96ZRmiU1Wi39qS5UVjV0P8qdgqOo5Cwyg==",
+      "path": "csvhelper/30.0.1",
+      "hashPath": "csvhelper.30.0.1.nupkg.sha512"
+    },
+    "Faker.Net/2.0.154": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pkabhT7wxNR1gkPO6ga77XdeqBblaE8a1oY47eMGGvM7DMZ9S8ARZrKkRWaPUNjGCOqtH3oeQSMuEPxd98ir4w==",
+      "path": "faker.net/2.0.154",
+      "hashPath": "faker.net.2.0.154.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "PgpCore/6.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7t3tKBmVl617Pxh+J0fv3Y9a65UAU0HGaTwSqaKyuqDQNiYEplaol7iHqc1iWp87/yHvgUOuG0Vc3VvffNJNZQ==",
+      "path": "pgpcore/6.5.1",
+      "hashPath": "pgpcore.6.5.1.nupkg.sha512"
+    }
+  }
+}

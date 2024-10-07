@@ -1,0 +1,103 @@
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.csproj.AssemblyReference.cache
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.AssemblyInfoInputs.cache
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.AssemblyInfo.cs
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.csproj.CoreCompileInputs.cache
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.exe
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.deps.json
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.runtimeconfig.json
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.dll
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.pdb
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/bin/Debug/net6.0/CsvHelper.dll
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/bin/Debug/net6.0/Faker.Net.6.0.dll
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/bin/Debug/net6.0/de-DE/Faker.Net.6.0.resources.dll
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.csproj.CopyComplete
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.dll
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/obj/Debug/net6.0/refint/FileGenerator.dll
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.pdb
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.genruntimeconfig.cache
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/obj/Debug/net6.0/ref/FileGenerator.dll
+C:/Users/kathryny/source/playground/FileGenerator-visa-clo-validation-processor/FileGenerator/FileGenerator/bin/Debug/net6.0/Input/data-1671018769655.csv
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/bin/Debug/net6.0/Input/data-1671018769655.csv
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.exe
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.deps.json
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.runtimeconfig.json
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.dll
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.pdb
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/bin/Debug/net6.0/CsvHelper.dll
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/bin/Debug/net6.0/Faker.Net.6.0.dll
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/bin/Debug/net6.0/de-DE/Faker.Net.6.0.resources.dll
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.csproj.AssemblyReference.cache
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.AssemblyInfoInputs.cache
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.AssemblyInfo.cs
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.csproj.CoreCompileInputs.cache
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGene.4F1F000E.Up2Date
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.dll
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/obj/Debug/net6.0/refint/FileGenerator.dll
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.pdb
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.genruntimeconfig.cache
+c:/Users/andyw/Downloads/validation-FileGenerator 3/FileGenerator/FileGenerator/obj/Debug/net6.0/ref/FileGenerator.dll
+~/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/Input/data-1671018769655.csv
+~/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator
+~/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.deps.json
+~/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.runtimeconfig.json
+~/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.dll
+~/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.pdb
+~/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/CsvHelper.dll
+~/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/Faker.Net.6.0.dll
+~/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/de-DE/Faker.Net.6.0.resources.dll
+~/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.csproj.AssemblyReference.cache
+~/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.GeneratedMSBuildEditorConfig.editorconfig
+~/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.AssemblyInfoInputs.cache
+~/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.AssemblyInfo.cs
+~/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.csproj.CoreCompileInputs.cache
+~/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGene.4F1F000E.Up2Date
+~/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.dll
+~/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/refint/FileGenerator.dll
+~/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.pdb
+~/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.genruntimeconfig.cache
+~/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/ref/FileGenerator.dll
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.csproj.AssemblyReference.cache
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.AssemblyInfoInputs.cache
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.AssemblyInfo.cs
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.csproj.CoreCompileInputs.cache
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.deps.json
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.runtimeconfig.json
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.dll
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/FileGenerator.pdb
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/CsvHelper.dll
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/Faker.Net.6.0.dll
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/PgpCore.dll
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/bin/Debug/net6.0/de-DE/Faker.Net.6.0.resources.dll
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGene.4F1F000E.Up2Date
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.dll
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/refint/FileGenerator.dll
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.pdb
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/FileGenerator.genruntimeconfig.cache
+/Users/francisdonald/Downloads/FileGenerator/FileGenerator/obj/Debug/net6.0/ref/FileGenerator.dll
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/bin/Debug/net6.0/Input/data-1671018769655.csv
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/bin/Debug/net6.0/FileGenerator
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/bin/Debug/net6.0/FileGenerator.deps.json
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/bin/Debug/net6.0/FileGenerator.runtimeconfig.json
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/bin/Debug/net6.0/FileGenerator.dll
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/bin/Debug/net6.0/FileGenerator.pdb
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/bin/Debug/net6.0/BouncyCastle.Cryptography.dll
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/bin/Debug/net6.0/CsvHelper.dll
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/bin/Debug/net6.0/Faker.Net.6.0.dll
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/bin/Debug/net6.0/PgpCore.dll
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/bin/Debug/net6.0/de-DE/Faker.Net.6.0.resources.dll
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/obj/Debug/net6.0/FileGenerator.csproj.AssemblyReference.cache
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/obj/Debug/net6.0/FileGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/obj/Debug/net6.0/FileGenerator.AssemblyInfoInputs.cache
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/obj/Debug/net6.0/FileGenerator.AssemblyInfo.cs
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/obj/Debug/net6.0/FileGenerator.csproj.CoreCompileInputs.cache
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/obj/Debug/net6.0/FileGene.4F1F000E.Up2Date
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/obj/Debug/net6.0/FileGenerator.dll
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/obj/Debug/net6.0/refint/FileGenerator.dll
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/obj/Debug/net6.0/FileGenerator.pdb
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/obj/Debug/net6.0/FileGenerator.genruntimeconfig.cache
+/Users/francisdonald/Downloads/FileGenerator_V2/FileGenerator/obj/Debug/net6.0/ref/FileGenerator.dll

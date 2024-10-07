@@ -1,0 +1,3 @@
+﻿select row_number() over (order by c.id) || '|' || c.externalid || '|' ||  ca.externalcardid || (SELECT * FROM banks ORDER BY random() LIMIT 1) || '|' || ca.panlastfour|| '|416351|498287478883|2021-01-05|107.77|840|0.00|840|54.10|passportinc.c|NJ|07712|840|ASBURY PARK PASSPORT PAR|2021-01-05|2021-01-05T15:19:24|781005551612347||04354D|05|0|||||||||||'
+from rlp_bl_account.card ca
+join rlp_bl_account.customer c on c.id = ca.customerid

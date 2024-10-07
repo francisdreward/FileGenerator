@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3JWVNLHWpM=",
+  "success": true,
+  "projectFilePath": "/Users/francisdonald/Downloads/FileGenerator/FileGenerator/FileGenerator.csproj",
+  "expectedPackageFiles": [
+    "/Users/francisdonald/.nuget/packages/bouncycastle.cryptography/2.4.0/bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "/Users/francisdonald/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512",
+    "/Users/francisdonald/.nuget/packages/faker.net/2.0.154/faker.net.2.0.154.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/francisdonald/.nuget/packages/pgpcore/6.5.1/pgpcore.6.5.1.nupkg.sha512",
+    "/Users/francisdonald/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/francisdonald/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/francisdonald/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
